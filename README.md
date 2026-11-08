@@ -1,6 +1,5 @@
 ## Varun Sammeta
 [![Website](https://img.shields.io/badge/Website-181717?style=flat&logo=google-chrome&logoColor=white)](https://oolio151.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varsam/)
 <ul>
   <li>computer engineering student at University of Maryland</li>
   <li>interested in robotics</li>
